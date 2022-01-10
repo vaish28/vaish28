@@ -11,12 +11,13 @@ I am Vaishnavi Madhekar a final year Computer Science student. I run a [youtube 
 - Website - https://vaishnavimadhekar5.wixsite.com/portfolio
 
 
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish28&langs_count=8)](https://github.com/vaish28/github-readme-stats)
+</p>
+
 <p align ="center">
   Visitor Count <br>
 <img src = "https://komarev.com/ghpvc/?username=vaish28" />
-  <br>
-  <h4>Languages used<h4>
-    <img src = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish28&langs_count=8)](https://github.com/vaish28/github-readme-stats)" />
 </p>
 
 
