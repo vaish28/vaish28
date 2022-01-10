@@ -4,7 +4,7 @@ I am Vaishnavi Madhekar a final year Computer Science student.
 
 <p align ="center">
   Visitor Count <br>
-![](https://komarev.com/ghpvc/?username=vaish28)
+<img src = "https://komarev.com/ghpvc/?username=vaish28" />
 </p>
 
 <!--
