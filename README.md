@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+I am Vaishnavi Madhekar a final year Computer Science student.
 
-
-
+<p align ="center">
+  Visitor Count <br>
 ![](https://komarev.com/ghpvc/?username=vaish28)
+</p>
 
 <!--
 **vaish28/vaish28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
