@@ -3,7 +3,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?vaish28=vaish28)
+![](https://komarev.com/ghpvc/?username=vaish28)
 
 <!--
 **vaish28/vaish28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
