@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-I am Vaishnavi Madhekar a final year Computer Science student. I run a [youtube channel](https://www.youtube.com/channel/UCYZc6M7kL1IxxN57_ubqYMw) 🎥 on programming stuff and I try to learn in this process. I sometimes blog on [medium](https://medium.com/@vaishnavi514)
+I am Vaishnavi Madhekar a final year Computer Science student. I run a [youtube channel](https://www.youtube.com/channel/UCYZc6M7kL1IxxN57_ubqYMw) 🎥 on programming stuff and I try to learn in this process. I sometimes blog on [medium](https://medium.com/@vaishnavi514) and write articles on technical stuff. Check out my article on (Docker)[https://medium.com/@vaishnavi514/docker-build-ship-run-any-application-anywhere-2f75d1166b50] . 
 
 <p align ="center">
   Visitor Count <br>
