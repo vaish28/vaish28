@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-I am Vaishnavi Madhekar a final year Computer Science student.
+I am Vaishnavi Madhekar a final year Computer Science student. I run a [youtube channel](https://www.youtube.com/channel/UCYZc6M7kL1IxxN57_ubqYMw) 🎥 on programming stuff and I try to learn in this process. I sometimes blog on [medium](https://medium.com/@vaishnavi514)
 
 <p align ="center">
   Visitor Count <br>
