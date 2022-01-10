@@ -4,6 +4,9 @@
 I am Vaishnavi Madhekar a final year Computer Science student. I run a [youtube channel](https://www.youtube.com/channel/UCYZc6M7kL1IxxN57_ubqYMw) 🎥 on programming stuff and I try to learn in this process. I sometimes blog on [medium](https://medium.com/@vaishnavi514) and write articles on technical stuff. Check out my article on [Docker](https://medium.com/@vaishnavi514/docker-build-ship-run-any-application-anywhere-2f75d1166b50). 
 
 
+- 🌱 I’m currently learning everything :grin:
+
+
 ## 📫 How to reach me: 
 
 - LinkedIn - https://www.linkedin.com/in/vaishnavi-s-m/
@@ -11,10 +14,12 @@ I am Vaishnavi Madhekar a final year Computer Science student. I run a [youtube 
 - Website - https://vaishnavimadhekar5.wixsite.com/portfolio
 
 
+
+<!--
 <p>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish28&langs_count=8)](https://github.com/vaish28/github-readme-stats)
 </p>
-
+-->
 <p align ="center">
   Visitor Count <br>
 <img src = "https://komarev.com/ghpvc/?username=vaish28" />
