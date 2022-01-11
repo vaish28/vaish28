@@ -21,7 +21,7 @@ I am Vaishnavi Madhekar a final year Computer Science Engineering student. I run
 ![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaish28&theme=dark&show_icons=true)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaish28&theme=tokyonight)
 
 
 
