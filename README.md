@@ -11,7 +11,7 @@ I am Vaishnavi Madhekar a final year Computer Science Engineering student. I run
 
 - LinkedIn - https://www.linkedin.com/in/vaishnavi-s-m/
 - Medium - https://medium.com/@vaishnavi514
-- Website - https://vaishnavimadhekar5.wixsite.com/portfolio
+- Website - https://vaishnavism.pythonanywhere.com/index.html
 
 <p align ="center">
   Visitor Count <br>
