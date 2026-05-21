@@ -1,35 +1,45 @@
 # Hi there, I'm Vaishnavi Madhekar! 👋
 
-## 🎓 About Me
+## 🧠 About Me
 
-I'm a final-year **Computer Science Engineering** student passionate about building things and sharing knowledge. I create programming content on [YouTube](https://www.youtube.com/channel/UCYZc6M7kL1IxxN57_ubqYMw) 🎥, write technical articles on [Medium](https://medium.com/@vaishnavi514) ✍️, and believe the best way to learn is to teach.
+I'm a **Machine Learning Engineer** at **Dell Technologies**, building production-grade AI/ML systems and LLM-powered platforms. I hold an **M.S. in Computer Science** from **Northeastern University** (Khoury College of Computer Sciences).
 
-Check out my article on [Docker: Build, Ship, Run Any Application Anywhere](https://medium.com/@vaishnavi514/docker-build-ship-run-any-application-anywhere-2f75d1166b50) 🐳
+I create programming content on [YouTube](https://www.youtube.com/channel/UCYZc6M7kL1IxxN57_ubqYMw) 🎥, write technical articles on [Medium](https://medium.com/@vaishnavi514) ✍️, and believe the best way to solidify knowledge is to teach it.
 
 ---
 
 ## 🔭 What I'm Working On
 
-- Exploring **Machine Learning & AI** — from fundamentals to applied deep learning
-- Building projects that bridge theory with real-world use cases
-- Creating educational content to help others on their CS journey
+- Designing **end-to-end ML pipelines** for data processing, training, and production deployment at Dell
+- Building **PromptIQ** — an internal developer platform for LLM prompt authoring, versioning, and A/B testing
+- Architecting **multi-stage LLM orchestration** systems using Apache Airflow and Meta-DAG workflows
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Machine Learning algorithms and model evaluation
-- Deep Learning with frameworks like TensorFlow / PyTorch
-- AI application development and deployment
+- Advanced **LLM evaluation & observability** (Langfuse, tracing, monitoring)
+- **Agentic AI** frameworks — LangGraph, RAG pipelines, multi-agent systems
+- MLOps best practices for scaling AI systems in production
 
 ## 💬 Ask Me About
 
-- Getting started with **Docker** & containerization
-- **Programming fundamentals** and learning strategies
-- Content creation for developers
+- **LLMs in production** — prompt engineering, RAG, fine-tuning, evaluation
+- **ML pipeline design** — orchestration, feature engineering, deployment
+- **Docker & containerization**, Python, and backend ML systems
+- Getting into ML engineering from a CS background
 
 ## 👯 Looking to Collaborate On
 
-- Open-source ML/AI projects
-- Developer education and community initiatives
+- Open-source ML/AI tooling and developer platforms
+- Educational content around applied ML and LLM engineering
+
+---
+
+## 🛠️ Tech Stack
+
+**ML & AI:** PyTorch · TensorFlow · Scikit-learn · LangGraph · RAG · Transformers · Prompt Engineering  
+**Engineering:** Python · SQL · Node.js · TypeScript · REST APIs · Shell Scripting  
+**Infra & DevOps:** Apache Airflow · Docker · CI/CD · PostgreSQL · MongoDB  
+**Observability:** Langfuse · Model Evaluation · A/B Testing
 
 ---
 
